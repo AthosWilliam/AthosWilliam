@@ -1,6 +1,6 @@
 ## Olá! Eu sou Athos William 
 - 🔭  Hoje trabalho com Front-end e Gestão de tráfego
-- 🌱  Atualmente estou aprendendo JavaScript
+- 💻  Atualmente estou aprendendo JavaScript
 - 🔥  Buscando melhorar a cada dia
 
 <div align="center">
