@@ -3,24 +3,16 @@
 - 💻  Front-End Developer!
 - 👨🏽‍💻 Analysis and Sistems Development!
 - 📚  Studying React!
-
 #
-
-<div class="panel" style="display: flex; align-items: center">
-
-<div style="margin: 10px; position: right">
-
-![Athos's GitHub stats](https://github-readme-stats.vercel.app/api?username=athoswilliam&theme=aura&show_icons=true)
-</div>
-
 <div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athoswilliam&theme=aura&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=athoswilliam&theme=aura&show_icons=true">
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athoswilliam&theme=aura&layout=compact">
+</div>
+<div>
+<img align="right" src="https://pa1.narvii.com/7048/841b9ce1f9432aa37710c687198900f0f69fcc0fr1-170-200_hq.gif">
 </div>
 
-</div>
 
-#
 
 <h2><u>My technologies</u></h2>
 
