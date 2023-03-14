@@ -12,10 +12,10 @@
 ## My technologies
 
 <div class="technologies" align="center" style="display: inline_block"> <br>
- <img align="center" alt="My sill-HTML" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="My sill-CSS" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="My sill-Js" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="My sill-React" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ <img align="center" alt="My skill-HTML" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="My skill-CSS" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="My skill-Js" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ <img align="center" alt="My skill-Python" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  <img align="right" height="130" margin-bottom="30px" src="https://pa1.narvii.com/7048/841b9ce1f9432aa37710c687198900f0f69fcc0fr1-170-200_hq.gif">
 </div>
 
